@@ -1,3 +1,3 @@
-# codecademyprojects
+# myprojects
 
- This repository contains my projects from Codecademy
+ This repository contains my python projects
